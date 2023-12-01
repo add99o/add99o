@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Adnan</h1>
-<h3 align="center">Android Developer for Kroger</h3>
+<h3 align="center">Android Developer</h3>
 
 <img src="https://komarev.com/ghpvc/?username=aoudeh99&color=0000E5&style=flat-square">
 
