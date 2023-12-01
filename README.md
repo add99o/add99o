@@ -3,12 +3,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=aoudeh99&color=0000E5&style=flat-square">
 
-<h3>A little about me:</h3>
-
-- Android Developer
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoudeh99&theme=light&hide_langs_below=1">
-<img src="https://github-readme-stats.vercel.app/api?username=aoudeh99&show_icons=true&include_all_commits=true">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoudeh99&theme=light&hide_langs_below=1">
+<!--
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aoudeh99&show_icons=true&include_all_commits=true">
+-->
 
 <br><br><br>
 
@@ -45,8 +43,9 @@
 -->
 
 <h2>Contact me:</h2>
-
+<!--
 <a target="_blank" href="https://twitter.com/add99o"><img alt="Twitter" src="https://img.shields.io/badge/@add99o-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+-->
 <!--
 <a target="_blank" href=" https://discord.gg/hFnDQ2F"><img alt="Discord" src="https://img.shields.io/badge/jonbarrow%234478-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a target="_blank" href="https://www.linkedin.com/in/jonathan-barrow-4bb120191/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
