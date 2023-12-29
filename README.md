@@ -50,8 +50,10 @@
 <a target="_blank" href=" https://discord.gg/hFnDQ2F"><img alt="Discord" src="https://img.shields.io/badge/jonbarrow%234478-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a target="_blank" href="https://www.linkedin.com/in/jonathan-barrow-4bb120191/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 -->
-<a target="_blank" href="mailto:adnanoudeh68@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/adnanoudeh68%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+<!--
+<a target="_blank" href="mailto:adnanoudeh68@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/adnanoudeh68%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+-->
 <!--
 Here are some ideas to get you started:
 
