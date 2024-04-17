@@ -3,7 +3,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=aoudeh99&color=0000E5&style=flat-square">
 
+<!--
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=add99o&theme=light&hide_langs_below=1">
+-->
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aoudeh99&show_icons=true&include_all_commits=true">
 -->
