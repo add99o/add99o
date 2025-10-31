@@ -38,4 +38,4 @@
 ## Contact
 - 📫 Email: **me@adnanoudeh.com**  
 - 💼 LinkedIn: **linkedin.com/in/adnanoudeh**  
-- 🧪 Playground: **adnanoudeh.com** (personal site)
+- 🧪 Personal site: **adnanoudeh.com**
