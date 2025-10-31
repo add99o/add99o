@@ -8,7 +8,6 @@
   <p>
     <a href="https://github.com/add99o"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=add99o&style=flat-square&color=3B82F6"></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Stars" src="https://img.shields.io/github/stars/add99o?style=flat-square&label=stars&color=10B981"></a>
-    <a href="mailto:me%40adnanoudeh.com"><img alt="Email" src="https://img.shields.io/badge/email-me%40adnanoudeh.com-0EA5E9?style=flat-square"></a>
   </p>
 
 </div>
@@ -37,6 +36,6 @@
 ---
 
 ## Contact
-- 📫 Email: **me%40adnanoudeh.com**  
+- 📫 Email: **me@adnanoudeh.com**  
 - 💼 LinkedIn: **linkedin.com/in/adnanoudeh**  
 - 🧪 Playground: **adnanoudeh.com** (personal site)
